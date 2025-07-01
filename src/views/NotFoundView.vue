@@ -14,7 +14,7 @@ export default { name: 'NotFoundView' }
 
 <style scoped>
 .not-found {
-    background: rgb(255, 228, 228);
+    background: rgb(255, 217, 217);
     text-align: center;
     padding: 48px 48px;
 }
@@ -34,7 +34,7 @@ export default { name: 'NotFoundView' }
 }
 
 .btn:hover {
-  background-color: rgb(42, 42, 42); 
+  background-color: rgb(75, 75, 75); 
   box-shadow: 0px 4px 4px 0px rgba(4, 35, 25, 0.50);
 }
 
